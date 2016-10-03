@@ -4,6 +4,6 @@
 
   angular
     .module('sb-background-image', [
-      "sb-bg-img.directives"
+      "sb-background-image.directives"
     ]);
 })();

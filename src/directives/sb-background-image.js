@@ -3,7 +3,7 @@
   /* global angular */
 
   angular
-    .module('sb-bg-img.directives')
+    .module('sb-background-image.directives')
     .directive('sbBackgroundImage', sbBackgroundImage);
 
   sbBackgroundImage.$inject = [];
