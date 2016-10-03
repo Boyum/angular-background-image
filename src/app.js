@@ -3,7 +3,7 @@
   /* global angular */
 
   angular
-    .module('sb-bg-img', [
+    .module('sb-background-image', [
       "sb-bg-img.directives"
     ]);
 })();
