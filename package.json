@@ -1,0 +1,29 @@
+{
+  "name": "angular-background-image",
+  "version": "1.0.0",
+  "description": "A tiny (338 bytes) directive for dynamically setting an element's CSS background image.",
+  "main": "index.js",
+  "scripts": {
+    "build": "uglifyjs-folder ./src -o ./angular-background-image.min.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boyum/angular-background-image.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "@Boyum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Boyum/angular-background-image/issues"
+  },
+  "homepage": "https://github.com/Boyum/angular-background-image#readme",
+  "dependencies": {
+    "angular": "^1.5.x"
+  },
+  "devDependencies": {
+    "uglifyjs-folder": "^0.3.0"
+  }
+}
