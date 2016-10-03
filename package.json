@@ -4,7 +4,7 @@
   "description": "A tiny (338 bytes) directive for dynamically setting an element's CSS background image.",
   "main": "index.js",
   "scripts": {
-    "build": "uglifyjs-folder ./src -o ./angular-background-image.min.js",
+    "build": "uglifyjs-folder ./src -o ./angular-background-img.min.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
