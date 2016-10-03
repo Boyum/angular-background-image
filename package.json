@@ -1,6 +1,6 @@
 {
   "name": "angular-background-img",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny (338 bytes) directive for dynamically setting an element's CSS background image.",
   "main": "index.js",
   "scripts": {
