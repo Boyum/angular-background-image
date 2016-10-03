@@ -1,7 +1,7 @@
 {
   "name": "angular-background-img",
-  "version": "1.1.0",
-  "description": "A tiny (338 bytes) directive for dynamically setting an element's CSS background image.",
+  "version": "1.1.1",
+  "description": "A tiny (420 bytes) directive for dynamically setting an element's CSS background image.",
   "main": "index.js",
   "scripts": {
     "build": "uglifyjs-folder ./src -o ./angular-background-img.min.js",

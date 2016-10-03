@@ -1,5 +1,5 @@
 # angular-background-image
-A tiny (338 bytes) angular directive for dynamically setting an element's CSS background image.
+A tiny (420 bytes) angular directive for dynamically setting an element's CSS background image.
 
 ## Installation
 Fetch from [npm](https://www.npmjs.com/package/angular-background-img).
