@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Boyum/angular-background-image.git"
+    "url": "git+https://github.com/boyum/angular-background-image.git"
   },
   "keywords": [
     "angular"
   ],
-  "author": "@Boyum",
+  "author": "@boyum",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Boyum/angular-background-image/issues"
+    "url": "https://github.com/boyum/angular-background-image/issues"
   },
-  "homepage": "https://github.com/Boyum/angular-background-image#readme",
+  "homepage": "https://github.com/boyum/angular-background-image#readme",
   "dependencies": {
     "angular": "^1.5.x"
   },
