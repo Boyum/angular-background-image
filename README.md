@@ -1,4 +1,4 @@
-# angular-background-image [![Build Status](https://travis-ci.org/Boyum/angular-background-image.svg?branch=master)](https://travis-ci.org/Boyum/angular-background-image)
+# angular-background-image [![Build Status](https://travis-ci.org/boyum/angular-background-image.svg?branch=master)](https://travis-ci.org/Boyum/angular-background-image)
 A tiny (420 bytes) angular directive for dynamically setting an element's CSS background image.
 
 ## Installation
